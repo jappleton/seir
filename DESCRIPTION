@@ -1,10 +1,15 @@
 Package: seir
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Student Engagement Instrument - Rcode
 Version: 0.1
-Date: 2015-10-22
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Date: 2015-11-08
+Author: James Appleton
+Maintainer: James Appleton <james.appleton2@gmail.com>
+Description:
+Generates datasets and reports from
+collected survey responses
+
+URL: https://github.com/jappleton/seir
+
+License: No License
 LazyData: TRUE
